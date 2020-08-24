@@ -18,7 +18,7 @@
                 android:layout_height="wrap_content"
                 android:textColor="#E6EDCF"
                 android:textSize="40sp"
-                android:text="Welcome to Yukkati"
+                android:text="Welcome to Yukkti"
                 android:fontFamily="cursive"
                 android:layout_centerHorizontal="true"
 
